@@ -8,6 +8,6 @@ def calcualtion(num1, num2):
     else:
         addition = num1 - num2
 
-    return f"La suma es {sum} y la resta es {addition}"
+    return f"La suma es {sum} y la besta es {addition}"
 
 print(calcualtion(21, 23))
