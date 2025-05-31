@@ -11,5 +11,7 @@ def more_big(numbers):
     
     return number_more_big
 
-print(more_big(list))
+print(more_big(list)) # 24
 # more_big(list)
+
+print(max(list)) # 24
